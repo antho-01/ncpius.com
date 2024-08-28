@@ -1,0 +1,21 @@
+
+.container {
+      background: rgba(0, 105, 0, 0.052);
+      padding: 2rem 0;
+      margin-top: 5rem;
+      margin-bottom: 3rem;
+}
+.text {
+
+
+      margin: 1rem 10rem 5rem 10rem;
+      font-size: 1.2rem;
+}
+
+.Cname{
+      margin-bottom: 1rem;
+      font-weight: bold;
+      font-size: 1.4rem;
+      border-left: .3px solid green;
+      padding-left: .5rem;
+}
