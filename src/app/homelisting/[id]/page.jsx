@@ -100,34 +100,34 @@ const Page = ({params}) => {
                                           className="mySwiper2"
                                           >
                                           <SwiperSlide>
-                                          <Image src="https://swiperjs.com/demos/images/nature-1.jpg" />
+                                          <Image src="https://swiperjs.com/demos/images/nature-1.jpg" alt="video"  />
                                           </SwiperSlide>
                                           <SwiperSlide>
-                                          <Image src="https://swiperjs.com/demos/images/nature-2.jpg" />
+                                          <Image src="https://swiperjs.com/demos/images/nature-2.jpg" alt="video"  />
                                           </SwiperSlide>
                                           <SwiperSlide>
-                                          <Image src="https://swiperjs.com/demos/images/nature-3.jpg" />
+                                          <Image src="https://swiperjs.com/demos/images/nature-3.jpg" alt="video"  />
                                           </SwiperSlide>
                                           <SwiperSlide>
-                                          <Image src="https://swiperjs.com/demos/images/nature-4.jpg" />
+                                          <Image src="https://swiperjs.com/demos/images/nature-4.jpg" alt="video"  />
                                           </SwiperSlide>
                                           <SwiperSlide>
-                                          <Image src="https://swiperjs.com/demos/images/nature-5.jpg" />
+                                          <Image src="https://swiperjs.com/demos/images/nature-5.jpg" alt="video"  />
                                           </SwiperSlide>
                                           <SwiperSlide>
-                                          <Image src="https://swiperjs.com/demos/images/nature-6.jpg" />
+                                          <Image src="https://swiperjs.com/demos/images/nature-6.jpg" alt="video"  />
                                           </SwiperSlide>
                                           <SwiperSlide>
-                                          <Image src="https://swiperjs.com/demos/images/nature-7.jpg" />
+                                          <Image src="https://swiperjs.com/demos/images/nature-7.jpg" alt="video"  />
                                           </SwiperSlide>
                                           <SwiperSlide>
-                                          <Image src="https://swiperjs.com/demos/images/nature-8.jpg" />
+                                          <Image src="https://swiperjs.com/demos/images/nature-8.jpg" alt="video"  />
                                           </SwiperSlide>
                                           <SwiperSlide>
-                                          <Image src="https://swiperjs.com/demos/images/nature-9.jpg" />
+                                          <Image src="https://swiperjs.com/demos/images/nature-9.jpg" alt="video"  />
                                           </SwiperSlide>
                                           <SwiperSlide>
-                                          <Image src="https://swiperjs.com/demos/images/nature-10.jpg" />
+                                          <Image src="https://swiperjs.com/demos/images/nature-10.jpg" alt="video"  />
                                           </SwiperSlide>
                                           </Swiper>
                                           <Swiper
@@ -140,34 +140,34 @@ const Page = ({params}) => {
                                           className="mySwiper"
                                           >
                                           <SwiperSlide>
-                                          <Image src="https://swiperjs.com/demos/images/nature-1.jpg" />
+                                          <Image src="https://swiperjs.com/demos/images/nature-1.jpg" alt="video"  />
                                           </SwiperSlide>
                                           <SwiperSlide>
-                                          <Image src="https://swiperjs.com/demos/images/nature-2.jpg" />
+                                          <Image src="https://swiperjs.com/demos/images/nature-2.jpg" alt="video"  />
                                           </SwiperSlide>
                                           <SwiperSlide>
-                                          <Image src="https://swiperjs.com/demos/images/nature-3.jpg" />
+                                          <Image src="https://swiperjs.com/demos/images/nature-3.jpg" alt="video"  />
                                           </SwiperSlide>
                                           <SwiperSlide>
-                                          <Image src="https://swiperjs.com/demos/images/nature-4.jpg" />
+                                          <Image src="https://swiperjs.com/demos/images/nature-4.jpg" alt="video"  />
                                           </SwiperSlide>
                                           <SwiperSlide>
-                                          <Image src="https://swiperjs.com/demos/images/nature-5.jpg" />
+                                          <Image src="https://swiperjs.com/demos/images/nature-5.jpg" alt="video"  />
                                           </SwiperSlide>
                                           <SwiperSlide>
-                                          <Image src="https://swiperjs.com/demos/images/nature-6.jpg" />
+                                          <Image src="https://swiperjs.com/demos/images/nature-6.jpg" alt="video"  />
                                           </SwiperSlide>
                                           <SwiperSlide>
-                                          <Image src="https://swiperjs.com/demos/images/nature-7.jpg" />
+                                          <Image src="https://swiperjs.com/demos/images/nature-7.jpg" alt="video"  />
                                           </SwiperSlide>
                                           <SwiperSlide>
-                                          <Image src="https://swiperjs.com/demos/images/nature-8.jpg" />
+                                          <Image src="https://swiperjs.com/demos/images/nature-8.jpg" alt="video"  />
                                           </SwiperSlide>
                                           <SwiperSlide>
-                                          <Image src="https://swiperjs.com/demos/images/nature-9.jpg" />
+                                          <Image src="https://swiperjs.com/demos/images/nature-9.jpg" alt="video"  />
                                           </SwiperSlide>
                                           <SwiperSlide>
-                                          <Image src="https://swiperjs.com/demos/images/nature-10.jpg" />
+                                          <Image src="https://swiperjs.com/demos/images/nature-10.jpg" alt="video"  />
                                           </SwiperSlide>
                                     </Swiper>
                                                 

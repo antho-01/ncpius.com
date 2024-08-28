@@ -6,6 +6,7 @@ import { PiBathtubLight } from "react-icons/pi";
 import { IoCarSportOutline } from "react-icons/io5";
 import { TbCurrencyNaira } from "react-icons/tb";
 import Link from "next/link"
+import Image from "next/image"
 
 
 
@@ -74,7 +75,7 @@ const Listing = () => {
                                           <div className={styles.imageDes}>
                                                 
                                                 <div className={styles.imgContainer}>
-                                    <Link href={`/homelisting/${list.id}`}> <img src={list.image} layout="fill" alt="House"/></Link>
+                                    <Link href={`/homelisting/${list.id}`}> <Image src={list.image} layout="fill" alt="House"/></Link>
                                                 </div>
                                                 
                                                 <div>  
