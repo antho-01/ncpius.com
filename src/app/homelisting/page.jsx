@@ -69,7 +69,7 @@ const Listing = () => {
                    {
                         list.map((list)=>{
                               return(
-                                    <div  className={styles.container}>
+                                    <div key={list.key} className={styles.container}>
                                     <div className={styles.subContainer}>
                                           <h2 className={styles.propertyType}>{list.propertyType}</h2>
                                           <div className={styles.imageDes}>
