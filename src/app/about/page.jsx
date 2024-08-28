@@ -14,7 +14,7 @@ const About = () => {
                           a tailored approach, ensuring that their unique needs and goals are met with precision and care.
                   </p><br/>
                   <p>
-                        The firms long-standing presence in the market underscores its success and adaptability in navigating evolving real estate trends. Nwachukwu Pius & Associates team of seasoned professionals combines years of experience with a client-centric philosophy, delivering innovative solutions and strategic advice. Whether you are seeking to buy, sell, or invest, their comprehensive services and personalized attention guarantee a seamless and successful real estate experience. Partner with Nwachukwu Pius & Associates to achieve your property ambitions with confidence and expertise.
+                        The firms long standing presence in the market underscores its success and adaptability in navigating evolving real estate trends. Nwachukwu Pius & Associates team of seasoned professionals combines years of experience with a client-centric philosophy, delivering innovative solutions and strategic advice. Whether you are seeking to buy, sell, or invest, their comprehensive services and personalized attention guarantee a seamless and successful real estate experience. Partner with Nwachukwu Pius & Associates to achieve your property ambitions with confidence and expertise.
                   </p>
                 </div>
             </section>
